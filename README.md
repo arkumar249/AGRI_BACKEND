@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="AgriNOVA_LOGO.jpg" alt="PRAGATI Logo" width="180" height="180" />
+   <img src="AGRINOVA__logo.png" alt="AgriNOVA Logo" width="180" height="180" />
 
   
   <h1>AgriNOVA: AI-Powered Personal Farming Assistant</h1>
