@@ -7,7 +7,6 @@
 </div>
 
 ---
----
 # AgriNOVA Backend – Farmer-First Multilingual Farm Assistant
 
 AgriNOVA is a farmer-first backend that turns scattered agricultural data — weather, soil, markets, advisories, local documents, and images — into one clear, safe, and actionable answer in the farmer’s own language.  
